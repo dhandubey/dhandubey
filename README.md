@@ -1,73 +1,74 @@
 <h1 align="center">DHANANJAY KUMAR DUBEY</h1>
 
 <h3 align="center">
-🏗️ Solution Architect • 🏦 Core Banking Specialist • ☁️ Cloud Native Leader • 🤖 AI Innovator
+🏦 Enterprise Banking Architect • 🏗️ Solution Architect • ☁️ Cloud Native Leader • 🤖 Agentic AI Innovator
 </h3>
 
 <p align="center">
-Transforming Banking & Financial Services through Enterprise Architecture, Digital Transformation, Cloud Native Platforms, and Agentic AI
+Driving Digital Banking Transformation through Enterprise Architecture, Core Banking Modernization, Cloud Native Engineering and Artificial Intelligence
 </p>
 
 <p align="center">
-<strong>12+ Years Experience</strong> • <strong>BFSI Domain Expert</strong> • <strong>Finacle Specialist</strong> • <strong>Java Architect</strong> • <strong>OpenShift</strong> • <strong>Generative AI</strong>
-</p>
-
-<p align="center">
-dubeyse@outlook.com
+12+ Years in BFSI • Finacle Specialist • Java Architect • OpenShift Expert • AI Practitioner
 </p>
 
 ---
 
 # 🚀 Executive Profile
 
-Architecting secure, scalable, and intelligent enterprise platforms across Banking, Core Banking, Digital Banking, Payments, Insurance, Government Banking, and AI-powered ecosystems.
+Solution Architect and Technical Leader with 12+ years of experience designing enterprise-scale Banking, Digital Banking, Payments, Government Banking and Insurance platforms.
 
-Seasoned Solution Architect and Technical Leader with 12+ years of experience designing and delivering mission-critical enterprise applications for global organizations. Proven expertise in Enterprise Architecture, Cloud Native Engineering, Core Banking Integration, Digital Transformation, Event-Driven Systems, Microservices, and emerging Artificial Intelligence technologies.
+Experienced in architecting mission-critical solutions using Java, Spring Boot, Quarkus, Microservices, Event-Driven Architecture, OpenShift, Kubernetes, AWS, Kafka and Enterprise Integration patterns.
 
-Specialized in helping enterprises modernize legacy banking ecosystems, accelerate digital transformation initiatives, strengthen operational resilience, and unlock business value through architecture excellence and technology innovation.
+Currently focused on Agentic AI, Generative AI, Large Language Models (LLMs), Retrieval Augmented Generation (RAG), FastAPI, Python and AI-powered enterprise architectures.
+
+Proven track record of delivering large-scale transformation programs for banking and financial institutions while leading architecture governance, cloud modernization and engineering excellence initiatives.
 
 ---
 
 # 🏆 Career Highlights
 
-✅ 12+ Years of Experience across BFSI, Banking, Payments, Insurance & Digital Platforms
+✅ 12+ Years of Enterprise Technology Experience
 
-✅ Solution Architect for Large-Scale Banking Transformation Programs
+✅ Solution Architect for Large Banking Transformation Programs
 
 ✅ Finacle Core Banking Integration Specialist
 
-✅ Technical Leadership Experience across Enterprise Programs
+✅ Digital Banking & Customer Journey Modernization
 
-✅ Designed Enterprise Microservices and Cloud Native Platforms
+✅ Cloud Native Architecture Leadership
 
-✅ Extensive Experience with AWS, OpenShift, Docker & Kubernetes
+✅ Java Enterprise Architecture Expert
 
-✅ Expertise in Event-Driven Architecture & Kafka Integration
+✅ OpenShift & Kubernetes Platform Engineering
 
-✅ Delivered Digital Banking, Mobile Banking & Customer Onboarding Solutions
+✅ Event-Driven Architecture using Kafka
 
-✅ Designed Secure Enterprise APIs using OAuth2, JWT & API Gateways
+✅ Enterprise API & Microservices Design
 
-✅ Building AI Platforms using LLMs, RAG, Python, FastAPI & Agentic AI
+✅ Agentic AI and Enterprise AI Platforms
 
-✅ Strong Experience in Stakeholder Management, Architecture Governance & Technical Leadership
+✅ Technical Leadership & Architecture Governance
+
+✅ Banking Domain Specialist (Core Banking, Payments, Investment Products)
 
 ---
 
 # 💼 Professional Snapshot
 
-| Area | Experience |
+| Area | Expertise |
 |--------|------------|
-| Total Experience | 12+ Years |
-| Architecture Experience | Enterprise Scale |
-| Leadership Experience | 5+ Years |
-| Banking Domain | Expert |
+| Experience | 12+ Years |
+| Current Role | Senior Specialist Architecture |
+| Leadership | 5+ Years |
+| Domain | Banking & Financial Services |
 | Core Banking | Finacle |
-| Digital Banking | Expert |
-| Microservices | Expert |
-| Cloud Native | AWS / OpenShift |
-| AI Technologies | LLM, RAG, Agentic AI |
-| Current Focus | Enterprise AI Platforms |
+| Architecture | Enterprise / Solution Architecture |
+| Cloud | AWS, OpenShift, Kubernetes |
+| Backend | Java, Spring Boot, Quarkus |
+| Frontend | ReactJS |
+| AI | LLMs, RAG, Agentic AI |
+| Integration | Kafka, REST APIs, Event Driven Systems |
 
 ---
 
@@ -75,21 +76,22 @@ Specialized in helping enterprises modernize legacy banking ecosystems, accelera
 
 ### Core Banking
 
-- Finacle CBS Integration
+- Finacle CBS
 - Customer Management
-- Deposit Management
 - General Ledger
-- Interest Calculation
 - Transaction Processing
+- Deposit Management
+- Interest Calculation
+- Banking Integrations
 
 ### Digital Banking
 
 - Mobile Banking
 - Internet Banking
 - Branch Portal
-- Customer Self-Service
-- Digital Account Opening
+- Customer Onboarding
 - Account Servicing
+- Customer Self-Service
 
 ### Investment Products
 
@@ -100,7 +102,7 @@ Specialized in helping enterprises modernize legacy banking ecosystems, accelera
 - Fixed Deposits
 - Recurring Deposits
 
-### Cards & Payments
+### Payments & Cards
 
 - Debit Cards
 - Payment Gateway Integration
@@ -108,70 +110,49 @@ Specialized in helping enterprises modernize legacy banking ecosystems, accelera
 - IMPS
 - NEFT
 - RTGS
-- Settlement Processing
+- Settlement
 - Reconciliation
 
 ### Digital Onboarding
 
-- eKYC
-- Aadhaar Verification
-- PAN Verification
+- Aadhaar eKYC
 - CKYC
-- Video KYC
+- PAN Verification
 - OCR
+- Video KYC
 - Face Matching
 - Liveness Detection
 
-### Enterprise Integration
-
-- Finacle CBS
-- GBM
-- Protean
-- ATM Switch
-- CCMS
-- Olive
-- Synzy Digital KYC
-- Third Party API Ecosystems
-
 ---
 
-# 🏗️ Architecture & Leadership Expertise
+# 🏗️ Architecture Expertise
 
-## Enterprise Architecture
+## Architecture Leadership
 
 - Solution Architecture
-- Technical Architecture
 - Enterprise Architecture
-- Cloud Architecture
+- Technical Architecture
 - Integration Architecture
+- Cloud Architecture
 - Application Modernization
 
-## Architecture Practices
+## Design Principles
 
-- API First Design
-- Event Driven Architecture
 - Domain Driven Design (DDD)
+- Event Driven Architecture
 - Hexagonal Architecture
+- API First Design
 - Microservices Architecture
 - Cloud Native Architecture
 
 ## Architecture Governance
 
-- HLD & LLD Preparation
+- High Level Design (HLD)
+- Low Level Design (LLD)
 - Architecture Reviews
-- Design Reviews
 - Technical Governance
-- Risk Assessment
+- Performance Optimization
 - Disaster Recovery Planning
-
-## Leadership
-
-- Technical Leadership
-- Stakeholder Management
-- Vendor Coordination
-- Team Mentoring
-- Delivery Governance
-- Enterprise Decision Making
 
 ---
 
@@ -180,20 +161,43 @@ Specialized in helping enterprises modernize legacy banking ecosystems, accelera
 ## Backend Engineering
 
 <p>
-https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Java_8-F89820?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Java_17-F89820?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Java_21-F89820?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Java_25-F89820?style=for-the-badge&logo=openjdk&logoColor=white
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge
+https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus
+https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge
 </p>
 
 ### Expertise
 
-- Java 8 to Java 21
+- Java 8, 17, 21 & 25
 - Spring Boot
 - Spring Cloud
+- Quarkus
 - Hibernate
 - REST APIs
 - Microservices
-- Design Patterns
 - API Contracts
+
+---
+
+## Frontend Engineering
+
+<p>
+https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black
+https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black
+</p>
+
+### Expertise
+
+- ReactJS
+- React Native
+- Frontend Integration
+- Enterprise Web Applications
+- Customer Facing Digital Journeys
 
 ---
 
@@ -217,16 +221,15 @@ https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoCo
 - GitLab CI/CD
 - CloudWatch
 - DevSecOps
-- Release Management
 
 ---
 
-## Messaging & Integration
+## Integration & Messaging
 
 <p>
-<img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-https://img.shields.io/badge/JMS-EF6C00?style=for-the-badge
-https://img.shields.io/badge/ActiveMQ-D50000?style=for-the-badge
+https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka
+https://img.shields.io/badge/JMS-orange?style=for-the-badge
+https://img.shields.io/badge/ActiveMQ-red?style=for-the-badge
 </p>
 
 ### Expertise
@@ -234,166 +237,118 @@ https://img.shields.io/badge/ActiveMQ-D50000?style=for-the-badge
 - Apache Kafka
 - JMS
 - ActiveMQ
-- Event Streaming
 - API Gateway
+- Event Streaming
 - Enterprise Integration
 
 ---
 
-## Database Technologies
-
-<p>
-https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle
-https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge
-https://img.shields.io/badge/NoSQL-4CAF50?style=for-the-badge
-</p>
-
-### Expertise
-
-- Oracle PL/SQL
-- SQL
-- Cassandra
-- NoSQL
-- Query Optimization
-- Performance Tuning
-
----
-
 ## Security Engineering
-
-<p>
-https://img.shields.io/badge/OAuth2-0A66C2?style=for-the-badge
-https://img.shields.io/badge/JWT-black?style=for-the-badge
-https://img.shields.io/badge/OWASP-green?style=for-the-badge
-</p>
-
-### Expertise
 
 - OAuth2
 - JWT
 - RBAC
 - TLS
 - IAM
+- OWASP
 - API Security
-- OWASP Standards
 - Enterprise Access Controls
 
 ---
 
-# 🤖 Artificial Intelligence & Innovation
+# 🤖 Artificial Intelligence
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-https://img.shields.io/badge/Generative_AI-FF6B35?style=for-the-badge
-https://img.shields.io/badge/LLMs-6F42C1?style=for-the-badge
-https://img.shields.io/badge/RAG-0066CC?style=for-the-badge
+https://img.shields.io/badge/LLMs-purple?style=for-the-badge
+https://img.shields.io/badge/RAG-blue?style=for-the-badge
 <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
 </p>
 
-### Current AI Focus
+### Focus Areas
 
-- Agentic AI Systems
-- Multi-Agent Workflows
-- Enterprise AI Platforms
-- Generative AI Solutions
+- Agentic AI
+- Generative AI
 - Large Language Models
 - Retrieval Augmented Generation (RAG)
-- Knowledge Retrieval Systems
-- FastAPI Applications
+- Multi-Agent Systems
+- Enterprise AI Platforms
+- AI Orchestration
 - Intelligent Automation
-- AI Orchestration Platforms
 
 ---
 
-# 🏢 Enterprise Experience
+# 🏢 Professional Journey
 
-## IBM India
-
-### Solution Architect / Technical Lead
-
-- Led architecture for Union Bank of India Digital Banking Ecosystem
-- Designed Digital Banking Platforms
-- Delivered Cards & Payments Architecture
-- Integrated Core Banking with Enterprise Systems
-- Established API and Microservices Architecture
-- Defined Cloud Native Deployment Models
-
----
-
-## LTM
+## 🟣 LTM
 
 ### Senior Specialist Architecture
 
-- Designing Enterprise AI Orchestration Platforms
-- Building Agentic AI Solutions
-- Developing LLM and RAG Applications
-- Creating Enterprise FastAPI Solutions
-- Driving AI Innovation Programs
+- Enterprise AI Orchestration Platform
+- Agentic AI Solutions
+- LLM & RAG Applications
+- FastAPI-based AI Services
+- AI Innovation Programs
 
 ---
 
-## Capgemini
+## 🔵 IBM
 
-### Technical Leadership
+### Solution Architect / Technical Lead
+
+**Union Bank of India Digital Transformation**
+
+- Digital Banking Architecture
+- Cards & Payments Platforms
+- Finacle Integration
+- Banking Product Platforms
+- Event Driven Microservices
+- AWS & OpenShift Architecture
+
+---
+
+## 🔴 Capgemini
+
+### Technical Lead
 
 - Enterprise Banking Platforms
-- Treasury & Capital Markets
-- Production Support Leadership
-- Banking Application Modernization
+- Capital Markets Technology
+- Platform Modernization
 - Technical Governance
+- Production Engineering
 
 ---
 
-# 🔥 Current Focus Areas
+# 🔥 Current Focus
 
 ```text
-🏦 Banking Modernization
-
+🏦 Core Banking Modernization
 ☁️ Cloud Native Architecture
-
 ⚡ Enterprise Microservices
-
-🔗 API-Led Integration
-
-📡 Event Driven Systems
-
+📡 Event Driven Architecture
+🔗 API Ecosystems
 🤖 Agentic AI
-
 🧠 Large Language Models
-
-📚 RAG Architectures
-
-🚀 Enterprise AI Platforms
-
-💡 Digital Transformation
+📚 RAG Platforms
+🚀 Enterprise AI Solutions
 ```
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
-</p>
 
 ---
 
 # 🌍 Open To Opportunities
 
-✅ Solution Architect
-
 ✅ Enterprise Architect
+
+✅ Solution Architect
 
 ✅ Technical Architect
 
 ✅ Banking Architect
 
-✅ Digital Transformation Architect
+✅ Finacle Architect
 
-✅ Cloud Architect
+✅ Digital Banking Architect
 
 ✅ AI Solution Architect
 
@@ -405,18 +360,18 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&lay
 
 # 📫 Connect With Me
 
-📧 **Email:** dubesartech@gmail.com
+📧 Email: dubeyse@outlook.com
 
-💼 **LinkedIn:** www.linkedin.com/in/dhandube
+💼 LinkedIn: https://www.linkedin.com/in/dhandube
 
-📍 **Location:** Mumbai, Maharashtra, India
+📍 Mumbai, Maharashtra, India
 
 ---
 
 <h2 align="center">
-💡 Building the Future of Banking through Architecture, Cloud Native Engineering, and Artificial Intelligence
+Building the Future of Banking Through Architecture, Cloud Native Engineering and Artificial Intelligence
 </h2>
 
 <h3 align="center">
-🏦 Core Banking • ☁️ Cloud Native • 🤖 Agentic AI
+🏦 Core Banking • ☁️ OpenShift • ⚡ Java • 🤖 Agentic AI
 </h3>
