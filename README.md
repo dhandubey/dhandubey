@@ -1,90 +1,47 @@
-## 🚀 Solution Architect | Technical Lead | Core Banking Specialist
+<h1 align="center">Hi 👋, I'm Dhananjay Kumar Dubey</h1>
 
-💡 Architecting enterprise-scale Banking, Financial Services, and AI-powered solutions.
+<h3 align="center">
+🚀 Solution Architect | Core Banking Specialist | AI Enthusiast
+</h3>
 
----
+<p align="center">
+Designing Enterprise Banking Platforms • Modernizing Core Banking • Building Agentic AI Solutions
+</p>
 
-### 👨‍💼 About Me
-
-- 🏦 12+ years of experience in Banking, Digital Banking, Payments, and Insurance
-- 🏗️ Solution Architect specializing in Enterprise Architecture and Digital Transformation
-- ☕ Expert in Java, Spring Boot, Microservices, Event-Driven Architecture
-- ☁️ Experienced with AWS, OpenShift, Kubernetes, Docker, and Cloud-Native Solutions
-- 🤖 Building Agentic AI, Generative AI, LLM, and RAG-based solutions
-- 🔗 Extensive integration experience with Finacle CBS, Digital Banking, Payment Systems, and Third-Party Platforms
-- 📈 Passionate about scalable, secure, and resilient enterprise systems
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=12%2B+Years+in+Banking+%26+BFSI;Solution+Architect+%7C+Technical+Leader;Finacle+%7C+Java+%7C+Microservices;OpenShift+%7C+Cloud+Native+Architecture;Generative+AI+7C+RAG+%7C+Agentic+AI
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 About Me
 
-### Backend & Architecture
+🏦 **12+ Years** of experience delivering enterprise solutions across Banking, Digital Banking, Payments, Insurance, and Financial Services.
 
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
-https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge
-https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge
-https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka
+✅ Architected and delivered large-scale Banking Transformation Programs
 
----
+✅ Extensive experience integrating **Finacle CBS**, Digital Banking, Payments, Cards, and Third-Party Ecosystems
 
-### Cloud & DevOps
+✅ Solution Architect for Cloud-Native, Event-Driven, and Microservices Platforms
 
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws
-https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white
-https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker
-https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins
+✅ Building next-generation AI solutions using **LLMs, RAG, Agentic AI, FastAPI, and Python**
+
+✅ Passionate about transforming complex business challenges into scalable digital platforms
 
 ---
 
-### AI & Automation
-
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
-https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge
-https://img.shields.io/badge/LLMs-412991?style=for-the-badge
-https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge
-https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge
-
----
-
-## 🏦 Domain Expertise
-
-- Core Banking (Finacle)
-- BFSI
-- Digital Banking
-- Cards & Payments
-- Government Banking
-- Digital Onboarding & eKYC
-- Investment Products (PPF, SSY, NPS)
-- Insurance
-- Enterprise Integrations
-- API-First Architecture
-
----
-
-## 🔥 Current Focus Areas
-
-- Agentic AI Platforms
-- Enterprise LLM Applications
-- RAG Architectures
-- AI Workflow Orchestration
-- Banking Modernization
-- Cloud Native Microservices
-- Digital Banking Platforms
-
----
-
-## 📊 Architecture Interests
+## 🏆 Core Expertise
 
 ```text
-✔ Solution Architecture
-✔ Technical Architecture
-✔ Enterprise Integration
-✔ Domain Driven Design (DDD)
-✔ Event Driven Architecture
-✔ Hexagonal Architecture
-✔ Microservices
-✔ Cloud Native Solutions
-✔ AI-Powered Enterprise Platforms
+✅ Solution Architecture
+✅ Enterprise Architecture
+✅ Core Banking (Finacle)
+✅ BFSI Domain
+✅ Java & Spring Boot
+✅ Event Driven Architecture
+✅ Microservices
+✅ OpenShift & Kubernetes
+✅ Cloud Native Solutions
+✅ API Strategy & Integration
+✅ Generative AI & LLMs
+✅ Agentic AI & RAG
