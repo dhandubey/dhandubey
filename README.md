@@ -1,5 +1,3 @@
-# Hi there 👋 I'm Dhananjay Kumar Dubey
-
 ## 🚀 Solution Architect | Technical Lead | Core Banking Specialist
 
 💡 Architecting enterprise-scale Banking, Financial Services, and AI-powered solutions.
