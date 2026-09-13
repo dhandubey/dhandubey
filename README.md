@@ -161,7 +161,6 @@ Proven track record of delivering large-scale transformation programs for bankin
 ## Backend Engineering
 
 <p>
-https://img.shields.io/badge/Java_25-F89820?style=for-the-badge&logo=openjdk&logoColor=white
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
