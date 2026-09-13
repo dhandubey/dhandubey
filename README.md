@@ -161,14 +161,8 @@ Proven track record of delivering large-scale transformation programs for bankin
 ## Backend Engineering
 
 <p>
-https://img.shields.io/badge/Java_8-F89820?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Java_17-F89820?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Java_21-F89820?style=for-the-badge&logo=openjdk&logoColor=white
 https://img.shields.io/badge/Java_25-F89820?style=for-the-badge&logo=openjdk&logoColor=white
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge
-https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus
-https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge
 </p>
 
 ### Expertise
@@ -187,8 +181,6 @@ https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge
 ## Frontend Engineering
 
 <p>
-https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black
-https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black
 </p>
 
 ### Expertise
@@ -227,9 +219,6 @@ https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&
 ## Integration & Messaging
 
 <p>
-https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka
-https://img.shields.io/badge/JMS-orange?style=for-the-badge
-https://img.shields.io/badge/ActiveMQ-red?style=for-the-badge
 </p>
 
 ### Expertise
@@ -261,8 +250,6 @@ https://img.shields.io/badge/ActiveMQ-red?style=for-the-badge
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-https://img.shields.io/badge/LLMs-purple?style=for-the-badge
-https://img.shields.io/badge/RAG-blue?style=for-the-badge
 <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
 </p>
 
