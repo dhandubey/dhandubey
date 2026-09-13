@@ -13,15 +13,7 @@ Transforming Banking & Financial Services through Enterprise Architecture, Digit
 </p>
 
 <p align="center">
-dubesartech@gmail.com
-https://img.shields.io/badge/Email-dubesartech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-</a>
-
-https://www.linkedin.com/in/dhandube/
-https://img.shields.io/badge/LinkedIn-Dhananjay_Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-</a>
-
-https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue
+dubeyse@outlook.com
 </p>
 
 ---
@@ -190,10 +182,6 @@ Specialized in helping enterprises modernize legacy banking ecosystems, accelera
 <p>
 https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge
-https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge
-https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge
-https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge
 </p>
 
 ### Expertise
